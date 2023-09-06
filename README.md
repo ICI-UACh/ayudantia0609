@@ -23,6 +23,6 @@ Cree un programa en python que permita formar un equipo pokemon, para esto progr
 - agregar_pokemon(): Pide el nombre de un pokemon, su tipo y su nivel y lo agrega al equipo. (Pueden agregar más campos)  
 - eliminar_pokemon(nombre_pokemon): Elimina el pokemon *nombre_pokemon* del equipo.
 - stats_pokemon(nombre_pokemon): Consulta por los datos del pokemon *nombre_pokemon*
-
+- existe(pokemon): Retorna verdadero si el pokemon existe, falso de lo contrario
   
 El programa debe terminar cuando se seleccione la opción para hacerlo.
