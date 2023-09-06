@@ -25,4 +25,4 @@ Cree un programa en python que permita formar un equipo pokemon, para esto progr
 - stats_pokemon(nombre_pokemon): Consulta por los datos del pokemon *nombre_pokemon*
 - existe(pokemon): Retorna verdadero si el pokemon existe, falso de lo contrario
   
-El programa debe terminar cuando se seleccione la opción para hacerlo.
+El programa debe terminar cuando se seleccione la opción para hacerlo o hayan 6 pokémon en el equipo.
